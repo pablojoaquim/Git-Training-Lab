@@ -5,7 +5,7 @@ void main(void)
 {
     int a=5;
     int b=6;
-    int sum=a+b;
+    int res=sum(a,b);
 
     return;
 }
