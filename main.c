@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "sum.h"
 
+/***************************************** 
+ * New header for this function
+ *****************************************/
 void main(void)
 {
     int a=5;
