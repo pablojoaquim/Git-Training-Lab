@@ -19,3 +19,14 @@ int mulandmul(int a, int b)
 {
     return (a*b*a*b);
 }
+
+/***************************************** 
+ * New header for this function
+ * Description
+ * Inputs
+ * Outputs
+ *****************************************/
+int mulandmulandmul(int a, int b)
+{
+    return (a*b*a*b*a*b);
+}
