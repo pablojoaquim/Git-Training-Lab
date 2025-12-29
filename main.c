@@ -3,6 +3,9 @@
 
 /***************************************** 
  * New header for this function
+ * Description
+ * Inputs
+ * Outputs
  *****************************************/
 void main(void)
 {
